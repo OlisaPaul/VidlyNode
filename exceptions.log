@@ -1,0 +1,762 @@
+{
+  error: Error: Something failed miserably!
+      at Object.<anonymous> (C:\Users\Paul\Documents\vidly\index.js:32:26)
+      at Module._compile (node:internal/modules/cjs/loader:1105:14)
+      at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+      at Module.load (node:internal/modules/cjs/loader:981:32)
+      at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+      at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+      at node:internal/main/run_main_module:17:47,
+  level: 'error',
+  message: 'uncaughtException: Something failed miserably!\n' +
+    'Error: Something failed miserably!\n' +
+    '    at Object.<anonymous> (C:\\Users\\Paul\\Documents\\vidly\\index.js:32:26)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:981:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n' +
+    '    at node:internal/main/run_main_module:17:47',
+  stack: 'Error: Something failed miserably!\n' +
+    '    at Object.<anonymous> (C:\\Users\\Paul\\Documents\\vidly\\index.js:32:26)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:981:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n' +
+    '    at node:internal/main/run_main_module:17:47',
+  exception: true,
+  date: 'Thu Oct 06 2022 11:53:18 GMT+0100 (West Africa Standard Time)',
+  process: {
+    pid: 13268,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Users\\Paul\\Documents\\vidly',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v16.16.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Users\\Paul\\Documents\\vidly\\index.js'
+    ],
+    memoryUsage: {
+      rss: 84103168,
+      heapTotal: 65126400,
+      heapUsed: 40194408,
+      external: 75376439,
+      arrayBuffers: 73530372
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 9881 },
+  trace: [
+    {
+      column: 26,
+      file: 'C:\\Users\\Paul\\Documents\\vidly\\index.js',
+      function: null,
+      line: 32,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1105,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1159,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 981,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 822,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'Function.executeUserEntryPoint [as runMain]',
+      line: 77,
+      method: 'executeUserEntryPoint [as runMain]',
+      native: false
+    },
+    {
+      column: 47,
+      file: 'node:internal/main/run_main_module',
+      function: null,
+      line: 17,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2022-10-06T10:53:18.564Z'
+}
+{
+  error: Error: Something failed miserably!
+      at Object.<anonymous> (C:\Users\Paul\Documents\vidly\index.js:35:26)
+      at Module._compile (node:internal/modules/cjs/loader:1105:14)
+      at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+      at Module.load (node:internal/modules/cjs/loader:981:32)
+      at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+      at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+      at node:internal/main/run_main_module:17:47,
+  level: 'error',
+  message: 'uncaughtException: Something failed miserably!\n' +
+    'Error: Something failed miserably!\n' +
+    '    at Object.<anonymous> (C:\\Users\\Paul\\Documents\\vidly\\index.js:35:26)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:981:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n' +
+    '    at node:internal/main/run_main_module:17:47',
+  stack: 'Error: Something failed miserably!\n' +
+    '    at Object.<anonymous> (C:\\Users\\Paul\\Documents\\vidly\\index.js:35:26)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:981:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n' +
+    '    at node:internal/main/run_main_module:17:47',
+  exception: true,
+  date: 'Thu Oct 06 2022 11:55:01 GMT+0100 (West Africa Standard Time)',
+  process: {
+    pid: 2304,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Users\\Paul\\Documents\\vidly',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v16.16.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Users\\Paul\\Documents\\vidly\\index.js'
+    ],
+    memoryUsage: {
+      rss: 84410368,
+      heapTotal: 65388544,
+      heapUsed: 40842952,
+      external: 74885287,
+      arrayBuffers: 73767383
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 9984 },
+  trace: [
+    {
+      column: 26,
+      file: 'C:\\Users\\Paul\\Documents\\vidly\\index.js',
+      function: null,
+      line: 35,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1105,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1159,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 981,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 822,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'Function.executeUserEntryPoint [as runMain]',
+      line: 77,
+      method: 'executeUserEntryPoint [as runMain]',
+      native: false
+    },
+    {
+      column: 47,
+      file: 'node:internal/main/run_main_module',
+      function: null,
+      line: 17,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2022-10-06T10:55:01.643Z'
+}
+{
+  error: Error: Something failed miserably!
+      at Object.<anonymous> (C:\Users\Paul\Documents\vidly\index.js:35:26)
+      at Module._compile (node:internal/modules/cjs/loader:1105:14)
+      at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+      at Module.load (node:internal/modules/cjs/loader:981:32)
+      at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+      at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+      at node:internal/main/run_main_module:17:47,
+  level: 'error',
+  message: 'uncaughtException: Something failed miserably!\n' +
+    'Error: Something failed miserably!\n' +
+    '    at Object.<anonymous> (C:\\Users\\Paul\\Documents\\vidly\\index.js:35:26)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:981:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n' +
+    '    at node:internal/main/run_main_module:17:47',
+  stack: 'Error: Something failed miserably!\n' +
+    '    at Object.<anonymous> (C:\\Users\\Paul\\Documents\\vidly\\index.js:35:26)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:981:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n' +
+    '    at node:internal/main/run_main_module:17:47',
+  exception: true,
+  date: 'Thu Oct 06 2022 11:55:19 GMT+0100 (West Africa Standard Time)',
+  process: {
+    pid: 14312,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Users\\Paul\\Documents\\vidly',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v16.16.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Users\\Paul\\Documents\\vidly\\index.js'
+    ],
+    memoryUsage: {
+      rss: 89210880,
+      heapTotal: 65388544,
+      heapUsed: 40211464,
+      external: 78668717,
+      arrayBuffers: 73530372
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 10002 },
+  trace: [
+    {
+      column: 26,
+      file: 'C:\\Users\\Paul\\Documents\\vidly\\index.js',
+      function: null,
+      line: 35,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1105,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1159,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 981,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 822,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'Function.executeUserEntryPoint [as runMain]',
+      line: 77,
+      method: 'executeUserEntryPoint [as runMain]',
+      native: false
+    },
+    {
+      column: 47,
+      file: 'node:internal/main/run_main_module',
+      function: null,
+      line: 17,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2022-10-06T10:55:19.972Z'
+}
+{
+  error: Error: Something Failed
+      at Object.<anonymous> (C:\Users\Paul\Documents\vidly\index.js:33:7)
+      at Module._compile (node:internal/modules/cjs/loader:1105:14)
+      at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+      at Module.load (node:internal/modules/cjs/loader:981:32)
+      at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+      at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+      at node:internal/main/run_main_module:17:47,
+  level: 'error',
+  message: 'uncaughtException: Something Failed\n' +
+    'Error: Something Failed\n' +
+    '    at Object.<anonymous> (C:\\Users\\Paul\\Documents\\vidly\\index.js:33:7)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:981:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n' +
+    '    at node:internal/main/run_main_module:17:47',
+  stack: 'Error: Something Failed\n' +
+    '    at Object.<anonymous> (C:\\Users\\Paul\\Documents\\vidly\\index.js:33:7)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:981:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n' +
+    '    at node:internal/main/run_main_module:17:47',
+  exception: true,
+  date: 'Thu Oct 06 2022 11:56:19 GMT+0100 (West Africa Standard Time)',
+  process: {
+    pid: 12116,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Users\\Paul\\Documents\\vidly',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v16.16.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Users\\Paul\\Documents\\vidly\\index.js'
+    ],
+    memoryUsage: {
+      rss: 87388160,
+      heapTotal: 64864256,
+      heapUsed: 40519560,
+      external: 78649146,
+      arrayBuffers: 73744437
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 10062 },
+  trace: [
+    {
+      column: 7,
+      file: 'C:\\Users\\Paul\\Documents\\vidly\\index.js',
+      function: null,
+      line: 33,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1105,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1159,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 981,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 822,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'Function.executeUserEntryPoint [as runMain]',
+      line: 77,
+      method: 'executeUserEntryPoint [as runMain]',
+      native: false
+    },
+    {
+      column: 47,
+      file: 'node:internal/main/run_main_module',
+      function: null,
+      line: 17,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2022-10-06T10:56:19.567Z'
+}
+{
+  error: Error: Something Failed
+      at Object.<anonymous> (C:\Users\Paul\Documents\vidly\index.js:17:7)
+      at Module._compile (node:internal/modules/cjs/loader:1105:14)
+      at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+      at Module.load (node:internal/modules/cjs/loader:981:32)
+      at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+      at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+      at node:internal/main/run_main_module:17:47,
+  level: 'error',
+  message: 'uncaughtException: Something Failed\n' +
+    'Error: Something Failed\n' +
+    '    at Object.<anonymous> (C:\\Users\\Paul\\Documents\\vidly\\index.js:17:7)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:981:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n' +
+    '    at node:internal/main/run_main_module:17:47',
+  stack: 'Error: Something Failed\n' +
+    '    at Object.<anonymous> (C:\\Users\\Paul\\Documents\\vidly\\index.js:17:7)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:981:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n' +
+    '    at node:internal/main/run_main_module:17:47',
+  exception: true,
+  date: 'Thu Oct 06 2022 12:57:25 GMT+0100 (West Africa Standard Time)',
+  process: {
+    pid: 11732,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Users\\Paul\\Documents\\vidly',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v16.16.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Users\\Paul\\Documents\\vidly\\index.js'
+    ],
+    memoryUsage: {
+      rss: 83795968,
+      heapTotal: 65126400,
+      heapUsed: 40879368,
+      external: 79044928,
+      arrayBuffers: 73735611
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 13728 },
+  trace: [
+    {
+      column: 7,
+      file: 'C:\\Users\\Paul\\Documents\\vidly\\index.js',
+      function: null,
+      line: 17,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1105,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1159,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 981,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 822,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'Function.executeUserEntryPoint [as runMain]',
+      line: 77,
+      method: 'executeUserEntryPoint [as runMain]',
+      native: false
+    },
+    {
+      column: 47,
+      file: 'node:internal/main/run_main_module',
+      function: null,
+      line: 17,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2022-10-06T11:57:25.923Z'
+}
+{
+  error: ReferenceError: mongoose is not defined
+      at Object.<anonymous> (C:\Users\Paul\Documents\vidly\index.js:24:1)
+      at Module._compile (node:internal/modules/cjs/loader:1105:14)
+      at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)
+      at Module.load (node:internal/modules/cjs/loader:981:32)
+      at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+      at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+      at node:internal/main/run_main_module:17:47,
+  level: 'error',
+  message: 'uncaughtException: mongoose is not defined\n' +
+    'ReferenceError: mongoose is not defined\n' +
+    '    at Object.<anonymous> (C:\\Users\\Paul\\Documents\\vidly\\index.js:24:1)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:981:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n' +
+    '    at node:internal/main/run_main_module:17:47',
+  stack: 'ReferenceError: mongoose is not defined\n' +
+    '    at Object.<anonymous> (C:\\Users\\Paul\\Documents\\vidly\\index.js:24:1)\n' +
+    '    at Module._compile (node:internal/modules/cjs/loader:1105:14)\n' +
+    '    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1159:10)\n' +
+    '    at Module.load (node:internal/modules/cjs/loader:981:32)\n' +
+    '    at Function.Module._load (node:internal/modules/cjs/loader:822:12)\n' +
+    '    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)\n' +
+    '    at node:internal/main/run_main_module:17:47',
+  exception: true,
+  date: 'Thu Oct 06 2022 12:57:59 GMT+0100 (West Africa Standard Time)',
+  process: {
+    pid: 9016,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Users\\Paul\\Documents\\vidly',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v16.16.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Users\\Paul\\Documents\\vidly\\index.js'
+    ],
+    memoryUsage: {
+      rss: 83451904,
+      heapTotal: 65126400,
+      heapUsed: 40804520,
+      external: 79087003,
+      arrayBuffers: 73735611
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 13762 },
+  trace: [
+    {
+      column: 1,
+      file: 'C:\\Users\\Paul\\Documents\\vidly\\index.js',
+      function: null,
+      line: 24,
+      method: null,
+      native: false
+    },
+    {
+      column: 14,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._compile',
+      line: 1105,
+      method: '_compile',
+      native: false
+    },
+    {
+      column: 10,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._extensions..js',
+      line: 1159,
+      method: '.js',
+      native: false
+    },
+    {
+      column: 32,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module.load',
+      line: 981,
+      method: 'load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/cjs/loader',
+      function: 'Module._load',
+      line: 822,
+      method: '_load',
+      native: false
+    },
+    {
+      column: 12,
+      file: 'node:internal/modules/run_main',
+      function: 'Function.executeUserEntryPoint [as runMain]',
+      line: 77,
+      method: 'executeUserEntryPoint [as runMain]',
+      native: false
+    },
+    {
+      column: 47,
+      file: 'node:internal/main/run_main_module',
+      function: null,
+      line: 17,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2022-10-06T11:57:59.926Z'
+}
+{
+  error: TypeError: logger.info is not a function
+      at C:\Users\Paul\Documents\vidly\startup\database.js:7:24
+      at processTicksAndRejections (node:internal/process/task_queues:96:5),
+  level: 'error',
+  message: 'uncaughtException: logger.info is not a function\n' +
+    'TypeError: logger.info is not a function\n' +
+    '    at C:\\Users\\Paul\\Documents\\vidly\\startup\\database.js:7:24\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:96:5)',
+  stack: 'TypeError: logger.info is not a function\n' +
+    '    at C:\\Users\\Paul\\Documents\\vidly\\startup\\database.js:7:24\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:96:5)',
+  exception: true,
+  date: 'Thu Oct 06 2022 13:24:13 GMT+0100 (West Africa Standard Time)',
+  process: {
+    pid: 13564,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Users\\Paul\\Documents\\vidly',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v16.16.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Users\\Paul\\Documents\\vidly\\index.js'
+    ],
+    memoryUsage: {
+      rss: 90132480,
+      heapTotal: 65650688,
+      heapUsed: 33549952,
+      external: 75123210,
+      arrayBuffers: 71782624
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 15335 },
+  trace: [
+    {
+      column: 24,
+      file: 'C:\\Users\\Paul\\Documents\\vidly\\startup\\database.js',
+      function: null,
+      line: 7,
+      method: null,
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/task_queues',
+      function: 'processTicksAndRejections',
+      line: 96,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2022-10-06T12:24:13.447Z'
+}
+{
+  error: TypeError: logger.info is not a function
+      at C:\Users\Paul\Documents\vidly\startup\database.js:7:24
+      at processTicksAndRejections (node:internal/process/task_queues:96:5),
+  level: 'error',
+  message: 'uncaughtException: logger.info is not a function\n' +
+    'TypeError: logger.info is not a function\n' +
+    '    at C:\\Users\\Paul\\Documents\\vidly\\startup\\database.js:7:24\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:96:5)',
+  stack: 'TypeError: logger.info is not a function\n' +
+    '    at C:\\Users\\Paul\\Documents\\vidly\\startup\\database.js:7:24\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:96:5)',
+  exception: true,
+  date: 'Thu Oct 06 2022 13:28:21 GMT+0100 (West Africa Standard Time)',
+  process: {
+    pid: 11928,
+    uid: null,
+    gid: null,
+    cwd: 'C:\\Users\\Paul\\Documents\\vidly',
+    execPath: 'C:\\Program Files\\nodejs\\node.exe',
+    version: 'v16.16.0',
+    argv: [
+      'C:\\Program Files\\nodejs\\node.exe',
+      'C:\\Users\\Paul\\Documents\\vidly\\index.js'
+    ],
+    memoryUsage: {
+      rss: 90050560,
+      heapTotal: 65388544,
+      heapUsed: 33704040,
+      external: 75112617,
+      arrayBuffers: 71783045
+    }
+  },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 15583 },
+  trace: [
+    {
+      column: 24,
+      file: 'C:\\Users\\Paul\\Documents\\vidly\\startup\\database.js',
+      function: null,
+      line: 7,
+      method: null,
+      native: false
+    },
+    {
+      column: 5,
+      file: 'node:internal/process/task_queues',
+      function: 'processTicksAndRejections',
+      line: 96,
+      method: null,
+      native: false
+    }
+  ],
+  timestamp: '2022-10-06T12:28:21.338Z'
+}
